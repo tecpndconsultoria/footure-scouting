@@ -1,0 +1,834 @@
+﻿player_id,season,Comp,Pos,Liga,jogos_titular,jogos_reserva,total_jogos_cb,jogos_nao_cb,pct_jogos_cb
+bd142efb,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,30.0,1.0,31,1.0,0.96875
+a73c8f95,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,30.0,0.0,30,0.0,1.0
+d248cd8f,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,28.0,1.0,29,1.0,0.9666666666666667
+5e66fa06,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,28.0,0.0,28,3.0,0.9032258064516129
+48035304,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,27.0,0.0,27,0.0,1.0
+ea6bc03a,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,26.0,0.0,26,1.0,0.9629629629629629
+f521b80a,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,25.0,0.0,25,1.0,0.9615384615384616
+20030c06,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,25.0,0.0,25,1.0,0.9615384615384616
+cba21b0d,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,23.0,1.0,24,0.0,1.0
+302527b2,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,23.0,1.0,24,0.0,1.0
+34e12499,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,23.0,1.0,24,0.0,1.0
+0fbecd11,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,23.0,0.0,23,0.0,1.0
+378825c7,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,22.0,1.0,23,4.0,0.8518518518518519
+f179ee11,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,21.0,1.0,22,2.0,0.9166666666666666
+f67c9d29,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,21.0,0.0,21,0.0,1.0
+9fd158d6,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,21.0,0.0,21,0.0,1.0
+95d5aea2,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,21.0,0.0,21,1.0,0.9545454545454546
+ae7058f9,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,20.0,1.0,21,0.0,1.0
+114bbdee,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,19.0,4.0,23,1.0,0.9583333333333334
+5ddb8f9f,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,19.0,1.0,20,5.0,0.8
+f3db5b34,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,19.0,0.0,19,0.0,1.0
+dd9caa07,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,19.0,0.0,19,1.0,0.95
+df8d6029,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,19.0,0.0,19,11.0,0.6333333333333333
+5b9512c5,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,18.0,0.0,18,0.0,1.0
+fd6bdbce,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,18.0,0.0,18,0.0,1.0
+5a28ad23,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,17.0,3.0,20,5.0,0.8
+4125cb98,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,16.0,3.0,19,4.0,0.8260869565217391
+84b5ffd6,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,16.0,1.0,17,2.0,0.8947368421052632
+c4987edc,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,16.0,0.0,16,0.0,1.0
+8817312f,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,16.0,0.0,16,3.0,0.8421052631578947
+e0f8151c,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,15.0,7.0,22,3.0,0.88
+cf1ef7ec,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,15.0,0.0,15,1.0,0.9375
+2e77d607,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,14.0,6.0,20,2.0,0.9090909090909091
+857a5abe,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,14.0,4.0,18,1.0,0.9473684210526315
+227c9f36,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,14.0,2.0,16,3.0,0.8421052631578947
+a20a798a,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,14.0,1.0,15,1.0,0.9375
+ef2ad14e,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,14.0,1.0,15,2.0,0.8823529411764706
+118e3ac3,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,13.0,0.0,13,2.0,0.8666666666666667
+e4433e5a,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,12.0,1.0,13,1.0,0.9285714285714286
+f761c901,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,12.0,1.0,13,1.0,0.9285714285714286
+f6ad6b97,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,11.0,2.0,13,0.0,1.0
+f86cabbd,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,11.0,1.0,12,0.0,1.0
+f6bdc830,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,11.0,1.0,12,3.0,0.8
+526ea7cc,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,11.0,0.0,11,0.0,1.0
+ee644761,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,11.0,0.0,11,1.0,0.9166666666666666
+a400da8e,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,9.0,2.0,11,1.0,0.9166666666666666
+94302c52,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,9.0,0.0,9,0.0,1.0
+75edc8ce,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,8.0,3.0,11,0.0,1.0
+2bab583c,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,8.0,3.0,11,5.0,0.6875
+5f3fd4c8,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,8.0,1.0,9,1.0,0.9
+4534a352,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,8.0,0.0,8,0.0,1.0
+9a93efc9,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,7.0,3.0,10,2.0,0.8333333333333334
+1d87670e,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,7.0,1.0,8,1.0,0.8888888888888888
+e33c06cf,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,7.0,1.0,8,1.0,0.8888888888888888
+a65ce836,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,6.0,4.0,10,1.0,0.9090909090909091
+de838f86,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,5.0,5.0,10,0.0,1.0
+699fb8db,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,5.0,2.0,7,0.0,1.0
+e962e4b5,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,5.0,1.0,6,0.0,1.0
+a4effc55,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,5.0,1.0,6,1.0,0.8571428571428571
+1227a22d,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,6.0,10,2.0,0.8333333333333334
+93e08bce,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,4.0,8,0.0,1.0
+aad48be9,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,3.0,7,1.0,0.875
+c678ddd7,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,3.0,7,4.0,0.6363636363636364
+1025db8e,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,1.0,5,1.0,0.8333333333333334
+285c7011,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,0.0,4,1.0,0.8
+48780156,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,4.0,0.0,4,2.0,0.6666666666666666
+383b10fd,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,3.0,0.0,3,1.0,0.75
+2d61d13a,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,2.0,6.0,8,1.0,0.8888888888888888
+913e4711,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,2.0,2.0,4,1.0,0.8
+7e12a98d,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,2.0,1.0,3,2.0,0.6
+958ede06,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,2.0,0.0,2,0.0,1.0
+d41472b7,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,2.0,0.0,2,0.0,1.0
+66642968,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,2.0,0.0,2,1.0,0.6666666666666666
+df9c3473,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,1.0,6.0,7,3.0,0.7
+b77f44a4,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,1.0,2.0,3,2.0,0.6
+add37c13,2025-2026,Bundesliga,CB,Bundesliga - Alemanha,0.0,2.0,2,0.0,1.0
+a65fd9ac,2025-2026,Eredivisie,CB,Eredivisie - Holanda,29.0,0.0,29,0.0,1.0
+df4b73f0,2025-2026,Eredivisie,CB,Eredivisie - Holanda,28.0,0.0,28,1.0,0.9655172413793104
+d5f5955a,2025-2026,Eredivisie,CB,Eredivisie - Holanda,27.0,1.0,28,1.0,0.9655172413793104
+eab957a3,2025-2026,Eredivisie,CB,Eredivisie - Holanda,26.0,0.0,26,0.0,1.0
+e38f1636,2025-2026,Eredivisie,CB,Eredivisie - Holanda,25.0,3.0,28,0.0,1.0
+04e82fa0,2025-2026,Eredivisie,CB,Eredivisie - Holanda,25.0,0.0,25,0.0,1.0
+25f50295,2025-2026,Eredivisie,CB,Eredivisie - Holanda,21.0,2.0,23,3.0,0.8846153846153846
+c75ad7ab,2025-2026,Eredivisie,CB,Eredivisie - Holanda,19.0,0.0,19,0.0,1.0
+ca002b1a,2025-2026,Eredivisie,CB,Eredivisie - Holanda,19.0,0.0,19,3.0,0.8636363636363636
+20a65cdf,2025-2026,Eredivisie,CB,Eredivisie - Holanda,19.0,0.0,19,5.0,0.7916666666666666
+b1027206,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,1.0,19,0.0,1.0
+d65be685,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,0.0,18,0.0,1.0
+996fc502,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,0.0,18,0.0,1.0
+3d7f0ce3,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,0.0,18,0.0,1.0
+d03e1b85,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,0.0,18,1.0,0.9473684210526315
+788a5c8d,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,0.0,18,1.0,0.9473684210526315
+bd94ce40,2025-2026,Eredivisie,CB,Eredivisie - Holanda,18.0,0.0,18,1.0,0.9473684210526315
+691d6a54,2025-2026,Eredivisie,CB,Eredivisie - Holanda,17.0,2.0,19,0.0,1.0
+1a6e1000,2025-2026,Eredivisie,CB,Eredivisie - Holanda,17.0,0.0,17,0.0,1.0
+65295b0d,2025-2026,Eredivisie,CB,Eredivisie - Holanda,17.0,0.0,17,0.0,1.0
+97d545ae,2025-2026,Eredivisie,CB,Eredivisie - Holanda,17.0,0.0,17,3.0,0.85
+a6c21671,2025-2026,Eredivisie,CB,Eredivisie - Holanda,16.0,1.0,17,0.0,1.0
+7bc34048,2025-2026,Eredivisie,CB,Eredivisie - Holanda,15.0,0.0,15,0.0,1.0
+c46366f5,2025-2026,Eredivisie,CB,Eredivisie - Holanda,15.0,0.0,15,1.0,0.9375
+be98fc34,2025-2026,Eredivisie,CB,Eredivisie - Holanda,15.0,0.0,15,3.0,0.8333333333333334
+16ca1157,2025-2026,Eredivisie,CB,Eredivisie - Holanda,14.0,3.0,17,1.0,0.9444444444444444
+353ef2a1,2025-2026,Eredivisie,CB,Eredivisie - Holanda,14.0,1.0,15,0.0,1.0
+f367997a,2025-2026,Eredivisie,CB,Eredivisie - Holanda,14.0,0.0,14,0.0,1.0
+86a3a76d,2025-2026,Eredivisie,CB,Eredivisie - Holanda,14.0,0.0,14,4.0,0.7777777777777778
+d378abf8,2025-2026,Eredivisie,CB,Eredivisie - Holanda,13.0,1.0,14,1.0,0.9333333333333333
+33a6a650,2025-2026,Eredivisie,CB,Eredivisie - Holanda,12.0,6.0,18,2.0,0.9
+da168469,2025-2026,Eredivisie,CB,Eredivisie - Holanda,12.0,3.0,15,1.0,0.9375
+0f422610,2025-2026,Eredivisie,CB,Eredivisie - Holanda,12.0,2.0,14,0.0,1.0
+60740e70,2025-2026,Eredivisie,CB,Eredivisie - Holanda,11.0,1.0,12,0.0,1.0
+da26162b,2025-2026,Eredivisie,CB,Eredivisie - Holanda,11.0,1.0,12,1.0,0.9230769230769231
+a72ead5e,2025-2026,Eredivisie,CB,Eredivisie - Holanda,11.0,0.0,11,1.0,0.9166666666666666
+cbca9383,2025-2026,Eredivisie,CB,Eredivisie - Holanda,10.0,4.0,14,3.0,0.8235294117647058
+1787acb3,2025-2026,Eredivisie,CB,Eredivisie - Holanda,8.0,9.0,17,5.0,0.7727272727272727
+f9dfb7ae,2025-2026,Eredivisie,CB,Eredivisie - Holanda,8.0,0.0,8,0.0,1.0
+5c42e7ce,2025-2026,Eredivisie,CB,Eredivisie - Holanda,8.0,0.0,8,5.0,0.6153846153846154
+ff9eae4d,2025-2026,Eredivisie,CB,Eredivisie - Holanda,7.0,1.0,8,1.0,0.8888888888888888
+72a1ac35,2025-2026,Eredivisie,CB,Eredivisie - Holanda,5.0,3.0,8,4.0,0.6666666666666666
+ff084412,2025-2026,Eredivisie,CB,Eredivisie - Holanda,5.0,1.0,6,0.0,1.0
+f7750aa0,2025-2026,Eredivisie,CB,Eredivisie - Holanda,5.0,0.0,5,1.0,0.8333333333333334
+12b644c8,2025-2026,Eredivisie,CB,Eredivisie - Holanda,0.0,2.0,2,1.0,0.6666666666666666
+377ef3a6,2025,La Liga,CB,La Liga - Espanha,11.0,9.0,20,1.0,0.9523809523809523
+6eaed4eb,2025-2026,La Liga,CB,La Liga - Espanha,30.0,0.0,30,1.0,0.967741935483871
+cc7888f3,2025-2026,La Liga,CB,La Liga - Espanha,26.0,1.0,27,3.0,0.9
+94bccc82,2025-2026,La Liga,CB,La Liga - Espanha,26.0,0.0,26,0.0,1.0
+ab7bf91d,2025-2026,La Liga,CB,La Liga - Espanha,25.0,1.0,26,1.0,0.9629629629629629
+87278bce,2025-2026,La Liga,CB,La Liga - Espanha,23.0,1.0,24,0.0,1.0
+fc8fcbd1,2025-2026,La Liga,CB,La Liga - Espanha,22.0,3.0,25,3.0,0.8928571428571429
+c4ce0ab5,2025-2026,La Liga,CB,La Liga - Espanha,20.0,1.0,21,0.0,1.0
+59c29820,2025-2026,La Liga,CB,La Liga - Espanha,20.0,1.0,21,0.0,1.0
+274ab13c,2025-2026,La Liga,CB,La Liga - Espanha,20.0,0.0,20,2.0,0.9090909090909091
+f2c6ac01,2025-2026,La Liga,CB,La Liga - Espanha,20.0,0.0,20,2.0,0.9090909090909091
+9a64e67e,2025-2026,La Liga,CB,La Liga - Espanha,19.0,3.0,22,3.0,0.88
+3ce20eda,2025-2026,La Liga,CB,La Liga - Espanha,19.0,2.0,21,0.0,1.0
+b906757a,2025-2026,La Liga,CB,La Liga - Espanha,19.0,1.0,20,1.0,0.9523809523809523
+69cbc8b6,2025-2026,La Liga,CB,La Liga - Espanha,19.0,0.0,19,0.0,1.0
+66654daa,2025-2026,La Liga,CB,La Liga - Espanha,19.0,0.0,19,2.0,0.9047619047619048
+3a99bc13,2025-2026,La Liga,CB,La Liga - Espanha,19.0,0.0,19,4.0,0.8260869565217391
+4b00cd47,2025-2026,La Liga,CB,La Liga - Espanha,18.0,2.0,20,1.0,0.9523809523809523
+3239a8ed,2025-2026,La Liga,CB,La Liga - Espanha,18.0,1.0,19,0.0,1.0
+b857bd29,2025-2026,La Liga,CB,La Liga - Espanha,18.0,0.0,18,0.0,1.0
+5b5c2228,2025-2026,La Liga,CB,La Liga - Espanha,18.0,0.0,18,7.0,0.72
+5cfec13d,2025-2026,La Liga,CB,La Liga - Espanha,17.0,3.0,20,1.0,0.9523809523809523
+94f8d10c,2025-2026,La Liga,CB,La Liga - Espanha,17.0,1.0,18,1.0,0.9473684210526315
+6c7762c3,2025-2026,La Liga,CB,La Liga - Espanha,17.0,1.0,18,1.0,0.9473684210526315
+f4290206,2025-2026,La Liga,CB,La Liga - Espanha,17.0,1.0,18,2.0,0.9
+2784f898,2025-2026,La Liga,CB,La Liga - Espanha,17.0,1.0,18,2.0,0.9
+5c7845f6,2025-2026,La Liga,CB,La Liga - Espanha,17.0,0.0,17,0.0,1.0
+93090f69,2025-2026,La Liga,CB,La Liga - Espanha,17.0,0.0,17,1.0,0.9444444444444444
+b742cc0d,2025-2026,La Liga,CB,La Liga - Espanha,16.0,2.0,18,2.0,0.9
+44150beb,2025-2026,La Liga,CB,La Liga - Espanha,15.0,1.0,16,0.0,1.0
+691bef82,2025-2026,La Liga,CB,La Liga - Espanha,15.0,1.0,16,2.0,0.8888888888888888
+0f26ffd7,2025-2026,La Liga,CB,La Liga - Espanha,15.0,1.0,16,3.0,0.8421052631578947
+119b9a8e,2025-2026,La Liga,CB,La Liga - Espanha,14.0,2.0,16,0.0,1.0
+41b3069f,2025-2026,La Liga,CB,La Liga - Espanha,14.0,1.0,15,2.0,0.8823529411764706
+5932c94a,2025-2026,La Liga,CB,La Liga - Espanha,14.0,1.0,15,3.0,0.8333333333333334
+df33ecb5,2025-2026,La Liga,CB,La Liga - Espanha,14.0,0.0,14,1.0,0.9333333333333333
+697295b1,2025-2026,La Liga,CB,La Liga - Espanha,14.0,0.0,14,2.0,0.875
+08ec5e71,2025-2026,La Liga,CB,La Liga - Espanha,13.0,2.0,15,7.0,0.6818181818181818
+18b896d6,2025-2026,La Liga,CB,La Liga - Espanha,13.0,1.0,14,0.0,1.0
+545e2f01,2025-2026,La Liga,CB,La Liga - Espanha,13.0,1.0,14,1.0,0.9333333333333333
+e19c989c,2025-2026,La Liga,CB,La Liga - Espanha,12.0,6.0,18,2.0,0.9
+ec1a731e,2025-2026,La Liga,CB,La Liga - Espanha,12.0,3.0,15,1.0,0.9375
+2bef2bca,2025-2026,La Liga,CB,La Liga - Espanha,12.0,3.0,15,3.0,0.8333333333333334
+4731cd4c,2025-2026,La Liga,CB,La Liga - Espanha,12.0,3.0,15,9.0,0.625
+7e64e657,2025-2026,La Liga,CB,La Liga - Espanha,12.0,1.0,13,0.0,1.0
+4637e608,2025-2026,La Liga,CB,La Liga - Espanha,12.0,1.0,13,1.0,0.9285714285714286
+4f28a6ff,2025-2026,La Liga,CB,La Liga - Espanha,12.0,0.0,12,0.0,1.0
+9b72de8f,2025-2026,La Liga,CB,La Liga - Espanha,11.0,2.0,13,3.0,0.8125
+133faa84,2025-2026,La Liga,CB,La Liga - Espanha,11.0,1.0,12,1.0,0.9230769230769231
+d2110326,2025-2026,La Liga,CB,La Liga - Espanha,10.0,1.0,11,0.0,1.0
+1cb49278,2025-2026,La Liga,CB,La Liga - Espanha,9.0,7.0,16,7.0,0.6956521739130435
+2bc7f211,2025-2026,La Liga,CB,La Liga - Espanha,9.0,2.0,11,0.0,1.0
+f0da930c,2025-2026,La Liga,CB,La Liga - Espanha,9.0,2.0,11,1.0,0.9166666666666666
+365113c0,2025-2026,La Liga,CB,La Liga - Espanha,8.0,3.0,11,2.0,0.8461538461538461
+15d0c248,2025-2026,La Liga,CB,La Liga - Espanha,8.0,2.0,10,0.0,1.0
+0a69de7b,2025-2026,La Liga,CB,La Liga - Espanha,8.0,2.0,10,0.0,1.0
+dd672e1f,2025-2026,La Liga,CB,La Liga - Espanha,8.0,2.0,10,1.0,0.9090909090909091
+a40819d9,2025-2026,La Liga,CB,La Liga - Espanha,8.0,2.0,10,1.0,0.9090909090909091
+885b845e,2025-2026,La Liga,CB,La Liga - Espanha,8.0,2.0,10,4.0,0.7142857142857143
+bba30585,2025-2026,La Liga,CB,La Liga - Espanha,8.0,1.0,9,0.0,1.0
+fd06e61d,2025-2026,La Liga,CB,La Liga - Espanha,8.0,1.0,9,1.0,0.9
+53cad200,2025-2026,La Liga,CB,La Liga - Espanha,8.0,0.0,8,1.0,0.8888888888888888
+3521abfe,2025-2026,La Liga,CB,La Liga - Espanha,7.0,2.0,9,1.0,0.9
+de204fbb,2025-2026,La Liga,CB,La Liga - Espanha,7.0,1.0,8,1.0,0.8888888888888888
+edd4e7a5,2025-2026,La Liga,CB,La Liga - Espanha,7.0,1.0,8,1.0,0.8888888888888888
+77cfae67,2025-2026,La Liga,CB,La Liga - Espanha,7.0,1.0,8,4.0,0.6666666666666666
+05439de2,2025-2026,La Liga,CB,La Liga - Espanha,6.0,2.0,8,3.0,0.7272727272727273
+a1232f4e,2025-2026,La Liga,CB,La Liga - Espanha,6.0,0.0,6,0.0,1.0
+20c88f8f,2025-2026,La Liga,CB,La Liga - Espanha,6.0,0.0,6,0.0,1.0
+ce46e850,2025-2026,La Liga,CB,La Liga - Espanha,5.0,1.0,6,1.0,0.8571428571428571
+18abe173,2025-2026,La Liga,CB,La Liga - Espanha,4.0,1.0,5,0.0,1.0
+15937e17,2025-2026,La Liga,CB,La Liga - Espanha,4.0,1.0,5,1.0,0.8333333333333334
+4a5839fa,2025-2026,La Liga,CB,La Liga - Espanha,4.0,0.0,4,0.0,1.0
+0924357d,2025-2026,La Liga,CB,La Liga - Espanha,4.0,0.0,4,0.0,1.0
+56cafd0a,2025-2026,La Liga,CB,La Liga - Espanha,3.0,4.0,7,1.0,0.875
+5853ac44,2025-2026,La Liga,CB,La Liga - Espanha,3.0,3.0,6,0.0,1.0
+7fd1abc5,2025-2026,La Liga,CB,La Liga - Espanha,3.0,2.0,5,0.0,1.0
+8648c59f,2025-2026,La Liga,CB,La Liga - Espanha,3.0,0.0,3,1.0,0.75
+a04f40c8,2025-2026,La Liga,CB,La Liga - Espanha,2.0,2.0,4,1.0,0.8
+f03f284b,2025-2026,La Liga,CB,La Liga - Espanha,2.0,1.0,3,0.0,1.0
+5b4a3e76,2025-2026,La Liga,CB,La Liga - Espanha,0.0,1.0,1,0.0,1.0
+71862cd6,2025,Liga Argentina,CB,Liga Argentina - Argentina,42.0,1.0,43,2.0,0.9555555555555556
+dd5ddb83,2025,Liga Argentina,CB,Liga Argentina - Argentina,41.0,0.0,41,2.0,0.9534883720930233
+cf5c3ef1,2025,Liga Argentina,CB,Liga Argentina - Argentina,40.0,1.0,41,2.0,0.9534883720930233
+3ec3c1c9,2025,Liga Argentina,CB,Liga Argentina - Argentina,35.0,1.0,36,0.0,1.0
+92c77992,2025,Liga Argentina,CB,Liga Argentina - Argentina,35.0,0.0,35,0.0,1.0
+e8b80334,2025,Liga Argentina,CB,Liga Argentina - Argentina,34.0,0.0,34,0.0,1.0
+55d7093b,2025,Liga Argentina,CB,Liga Argentina - Argentina,34.0,0.0,34,0.0,1.0
+4e32c2d6,2025,Liga Argentina,CB,Liga Argentina - Argentina,34.0,0.0,34,0.0,1.0
+8127de9b,2025,Liga Argentina,CB,Liga Argentina - Argentina,33.0,5.0,38,3.0,0.926829268292683
+7e157454,2025,Liga Argentina,CB,Liga Argentina - Argentina,33.0,2.0,35,2.0,0.9459459459459459
+7b2c18c0,2025,Liga Argentina,CB,Liga Argentina - Argentina,33.0,1.0,34,1.0,0.9714285714285714
+1990d38d,2025,Liga Argentina,CB,Liga Argentina - Argentina,32.0,0.0,32,0.0,1.0
+b4c8e4c5,2025,Liga Argentina,CB,Liga Argentina - Argentina,31.0,0.0,31,0.0,1.0
+f228c287,2025,Liga Argentina,CB,Liga Argentina - Argentina,31.0,0.0,31,0.0,1.0
+de16bb25,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,4.0,34,3.0,0.918918918918919
+3906e923,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,2.0,32,0.0,1.0
+422ca36a,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,2.0,32,1.0,0.9696969696969697
+18950a80,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,1.0,31,0.0,1.0
+3c7a3791,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,0.0,30,0.0,1.0
+42b1a58a,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,0.0,30,0.0,1.0
+7d3feecd,2025,Liga Argentina,CB,Liga Argentina - Argentina,30.0,0.0,30,0.0,1.0
+deb82749,2025,Liga Argentina,CB,Liga Argentina - Argentina,29.0,0.0,29,0.0,1.0
+27aecc44,2025,Liga Argentina,CB,Liga Argentina - Argentina,29.0,0.0,29,1.0,0.9666666666666667
+8320fe65,2025,Liga Argentina,CB,Liga Argentina - Argentina,29.0,0.0,29,2.0,0.9354838709677419
+c1e3b5e9,2025,Liga Argentina,CB,Liga Argentina - Argentina,29.0,0.0,29,5.0,0.8529411764705882
+ed020f1e,2025,Liga Argentina,CB,Liga Argentina - Argentina,28.0,4.0,32,5.0,0.8648648648648649
+19cf6f7c,2025,Liga Argentina,CB,Liga Argentina - Argentina,28.0,0.0,28,4.0,0.875
+323d23e6,2025,Liga Argentina,CB,Liga Argentina - Argentina,27.0,0.0,27,0.0,1.0
+9c1b0d34,2025,Liga Argentina,CB,Liga Argentina - Argentina,26.0,1.0,27,0.0,1.0
+3f66660b,2025,Liga Argentina,CB,Liga Argentina - Argentina,26.0,1.0,27,1.0,0.9642857142857143
+4958ceac,2025,Liga Argentina,CB,Liga Argentina - Argentina,26.0,0.0,26,0.0,1.0
+7b58c3c3,2025,Liga Argentina,CB,Liga Argentina - Argentina,25.0,5.0,30,0.0,1.0
+39fb428f,2025,Liga Argentina,CB,Liga Argentina - Argentina,25.0,0.0,25,0.0,1.0
+26176390,2025,Liga Argentina,CB,Liga Argentina - Argentina,25.0,0.0,25,0.0,1.0
+7221c7da,2025,Liga Argentina,CB,Liga Argentina - Argentina,25.0,0.0,25,2.0,0.9259259259259259
+a15750e1,2025,Liga Argentina,CB,Liga Argentina - Argentina,25.0,0.0,25,7.0,0.78125
+28c96f20,2025,Liga Argentina,CB,Liga Argentina - Argentina,24.0,4.0,28,4.0,0.875
+413acb9d,2025,Liga Argentina,CB,Liga Argentina - Argentina,24.0,1.0,25,1.0,0.9615384615384616
+328cb061,2025,Liga Argentina,CB,Liga Argentina - Argentina,24.0,0.0,24,4.0,0.8571428571428571
+16e54624,2025,Liga Argentina,CB,Liga Argentina - Argentina,23.0,1.0,24,1.0,0.96
+7b33603b,2025,Liga Argentina,CB,Liga Argentina - Argentina,23.0,1.0,24,1.0,0.96
+f4480f5b,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,7.0,29,0.0,1.0
+3f831989,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,3.0,25,0.0,1.0
+14cc32a6,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,3.0,25,0.0,1.0
+1baa6d8f,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,2.0,24,2.0,0.9230769230769231
+6ed8d841,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,1.0,23,0.0,1.0
+84c478aa,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,1.0,23,2.0,0.92
+51e3954c,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,0.0,22,0.0,1.0
+0478a3cc,2025,Liga Argentina,CB,Liga Argentina - Argentina,22.0,0.0,22,3.0,0.88
+b75a1b03,2025,Liga Argentina,CB,Liga Argentina - Argentina,21.0,1.0,22,0.0,1.0
+879d015a,2025,Liga Argentina,CB,Liga Argentina - Argentina,21.0,1.0,22,5.0,0.8148148148148148
+ee2bdcb7,2025,Liga Argentina,CB,Liga Argentina - Argentina,21.0,1.0,22,5.0,0.8148148148148148
+7e927fda,2025,Liga Argentina,CB,Liga Argentina - Argentina,21.0,0.0,21,2.0,0.9130434782608695
+823dc1ab,2025,Liga Argentina,CB,Liga Argentina - Argentina,20.0,2.0,22,0.0,1.0
+54d90093,2025,Liga Argentina,CB,Liga Argentina - Argentina,20.0,2.0,22,3.0,0.88
+e2c0f4bf,2025,Liga Argentina,CB,Liga Argentina - Argentina,20.0,0.0,20,2.0,0.9090909090909091
+2f9ae3a1,2025,Liga Argentina,CB,Liga Argentina - Argentina,20.0,0.0,20,11.0,0.6451612903225806
+8c6fe2bf,2025,Liga Argentina,CB,Liga Argentina - Argentina,19.0,2.0,21,0.0,1.0
+e0991c04,2025,Liga Argentina,CB,Liga Argentina - Argentina,19.0,1.0,20,1.0,0.9523809523809523
+fb591f74,2025,Liga Argentina,CB,Liga Argentina - Argentina,19.0,1.0,20,2.0,0.9090909090909091
+09e1d2b1,2025,Liga Argentina,CB,Liga Argentina - Argentina,19.0,0.0,19,0.0,1.0
+95fd4bf2,2025,Liga Argentina,CB,Liga Argentina - Argentina,18.0,4.0,22,3.0,0.88
+8c725b43,2025,Liga Argentina,CB,Liga Argentina - Argentina,17.0,4.0,21,3.0,0.875
+e4b8c5b6,2025,Liga Argentina,CB,Liga Argentina - Argentina,17.0,4.0,21,6.0,0.7777777777777778
+d3e5285f,2025,Liga Argentina,CB,Liga Argentina - Argentina,16.0,3.0,19,1.0,0.95
+40424ddf,2025,Liga Argentina,CB,Liga Argentina - Argentina,16.0,3.0,19,3.0,0.8636363636363636
+6d8fe94c,2025,Liga Argentina,CB,Liga Argentina - Argentina,16.0,2.0,18,2.0,0.9
+e020cfc4,2025,Liga Argentina,CB,Liga Argentina - Argentina,16.0,0.0,16,2.0,0.8888888888888888
+fc63eb31,2025,Liga Argentina,CB,Liga Argentina - Argentina,16.0,0.0,16,3.0,0.8421052631578947
+08576297,2025,Liga Argentina,CB,Liga Argentina - Argentina,15.0,3.0,18,3.0,0.8571428571428571
+44b130dc,2025,Liga Argentina,CB,Liga Argentina - Argentina,15.0,0.0,15,0.0,1.0
+7abfa435,2025,Liga Argentina,CB,Liga Argentina - Argentina,15.0,0.0,15,0.0,1.0
+e5fc269b,2025,Liga Argentina,CB,Liga Argentina - Argentina,14.0,5.0,19,3.0,0.8636363636363636
+0f978661,2025,Liga Argentina,CB,Liga Argentina - Argentina,14.0,1.0,15,0.0,1.0
+18da6cc6,2025,Liga Argentina,CB,Liga Argentina - Argentina,13.0,4.0,17,0.0,1.0
+0e14fbc4,2025,Liga Argentina,CB,Liga Argentina - Argentina,13.0,0.0,13,1.0,0.9285714285714286
+8cd70adc,2025,Liga Argentina,CB,Liga Argentina - Argentina,13.0,0.0,13,6.0,0.6842105263157895
+6f41c0bc,2025,Liga Argentina,CB,Liga Argentina - Argentina,12.0,0.0,12,1.0,0.9230769230769231
+e7eab8e7,2025,Liga Argentina,CB,Liga Argentina - Argentina,11.0,0.0,11,1.0,0.9166666666666666
+2879e7a6,2025,Liga Argentina,CB,Liga Argentina - Argentina,10.0,7.0,17,2.0,0.8947368421052632
+fa2c1419,2025-2026,Liga Argentina,CB,Liga Argentina - Argentina,9.0,2.0,11,2.0,0.8461538461538461
+da0fc816,2025,Liga MX,CB,Liga MX - México,35.0,4.0,39,3.0,0.9285714285714286
+01a49bd2,2025,Liga MX,CB,Liga MX - México,29.0,0.0,29,0.0,1.0
+1b2f1090,2025,Liga MX,CB,Liga MX - México,24.0,1.0,25,2.0,0.9259259259259259
+78db8e07,2025,Liga MX,CB,Liga MX - México,6.0,6.0,12,1.0,0.9230769230769231
+95c2f969,2025-2026,Liga MX,CB,Liga MX - México,27.0,1.0,28,0.0,1.0
+448130fe,2025-2026,Liga MX,CB,Liga MX - México,26.0,0.0,26,3.0,0.896551724137931
+7d704e92,2025-2026,Liga MX,CB,Liga MX - México,24.0,0.0,24,0.0,1.0
+0c14329b,2025-2026,Liga MX,CB,Liga MX - México,23.0,0.0,23,0.0,1.0
+aed65960,2025-2026,Liga MX,CB,Liga MX - México,23.0,0.0,23,0.0,1.0
+369d907c,2025-2026,Liga MX,CB,Liga MX - México,23.0,0.0,23,0.0,1.0
+cd60f3ce,2025-2026,Liga MX,CB,Liga MX - México,22.0,0.0,22,0.0,1.0
+08511d65,2025-2026,Liga MX,CB,Liga MX - México,22.0,0.0,22,0.0,1.0
+4b3ca22c,2025-2026,Liga MX,CB,Liga MX - México,21.0,1.0,22,0.0,1.0
+a566d3a2,2025-2026,Liga MX,CB,Liga MX - México,21.0,0.0,21,0.0,1.0
+7091c68e,2025-2026,Liga MX,CB,Liga MX - México,20.0,0.0,20,2.0,0.9090909090909091
+a7104778,2025-2026,Liga MX,CB,Liga MX - México,20.0,0.0,20,4.0,0.8333333333333334
+743d5a0e,2025-2026,Liga MX,CB,Liga MX - México,19.0,0.0,19,0.0,1.0
+69e5e199,2025-2026,Liga MX,CB,Liga MX - México,18.0,3.0,21,4.0,0.84
+ee246a94,2025-2026,Liga MX,CB,Liga MX - México,18.0,0.0,18,0.0,1.0
+a5737fd0,2025-2026,Liga MX,CB,Liga MX - México,18.0,0.0,18,1.0,0.9473684210526315
+1835f053,2025-2026,Liga MX,CB,Liga MX - México,17.0,6.0,23,1.0,0.9583333333333334
+723496a4,2025-2026,Liga MX,CB,Liga MX - México,17.0,1.0,18,1.0,0.9473684210526315
+76b24e70,2025-2026,Liga MX,CB,Liga MX - México,16.0,0.0,16,0.0,1.0
+0057a058,2025-2026,Liga MX,CB,Liga MX - México,16.0,0.0,16,2.0,0.8888888888888888
+1fe0492d,2025-2026,Liga MX,CB,Liga MX - México,16.0,0.0,16,4.0,0.8
+66017b9d,2025-2026,Liga MX,CB,Liga MX - México,15.0,1.0,16,4.0,0.8
+fc9d3b30,2025-2026,Liga MX,CB,Liga MX - México,15.0,0.0,15,1.0,0.9375
+24bf30ba,2025-2026,Liga MX,CB,Liga MX - México,15.0,0.0,15,8.0,0.6521739130434783
+0a9a98f7,2025-2026,Liga MX,CB,Liga MX - México,14.0,3.0,17,1.0,0.9444444444444444
+aa98e19a,2025-2026,Liga MX,CB,Liga MX - México,14.0,2.0,16,2.0,0.8888888888888888
+18f8c925,2025-2026,Liga MX,CB,Liga MX - México,14.0,2.0,16,4.0,0.8
+d28b4a9d,2025-2026,Liga MX,CB,Liga MX - México,14.0,1.0,15,0.0,1.0
+d4fa7d01,2025-2026,Liga MX,CB,Liga MX - México,14.0,0.0,14,0.0,1.0
+36cb53e7,2025-2026,Liga MX,CB,Liga MX - México,14.0,0.0,14,1.0,0.9333333333333333
+1633fc8a,2025-2026,Liga MX,CB,Liga MX - México,14.0,0.0,14,1.0,0.9333333333333333
+d9f9ab8d,2025-2026,Liga MX,CB,Liga MX - México,14.0,0.0,14,2.0,0.875
+8302dba4,2025-2026,Liga MX,CB,Liga MX - México,13.0,3.0,16,1.0,0.9411764705882353
+68d48a71,2025-2026,Liga MX,CB,Liga MX - México,13.0,1.0,14,3.0,0.8235294117647058
+c164493d,2025-2026,Liga MX,CB,Liga MX - México,13.0,1.0,14,3.0,0.8235294117647058
+d4f46475,2025-2026,Liga MX,CB,Liga MX - México,13.0,0.0,13,0.0,1.0
+ecc5063f,2025-2026,Liga MX,CB,Liga MX - México,12.0,1.0,13,4.0,0.7647058823529411
+416a75fb,2025-2026,Liga MX,CB,Liga MX - México,12.0,1.0,13,6.0,0.6842105263157895
+39af4ba6,2025-2026,Liga MX,CB,Liga MX - México,11.0,4.0,15,4.0,0.7894736842105263
+2a8638ec,2025-2026,Liga MX,CB,Liga MX - México,11.0,2.0,13,1.0,0.9285714285714286
+84e2f028,2025-2026,Liga MX,CB,Liga MX - México,10.0,2.0,12,0.0,1.0
+1e92c75d,2025-2026,Liga MX,CB,Liga MX - México,9.0,3.0,12,4.0,0.75
+b78fa415,2025-2026,Liga MX,CB,Liga MX - México,9.0,1.0,10,2.0,0.8333333333333334
+c4a9b5e6,2025-2026,Liga MX,CB,Liga MX - México,9.0,0.0,9,1.0,0.9
+b425b366,2025-2026,Liga MX,CB,Liga MX - México,9.0,0.0,9,1.0,0.9
+5fb82f8f,2025-2026,Liga MX,CB,Liga MX - México,8.0,3.0,11,4.0,0.7333333333333333
+3947fa95,2025-2026,Liga MX,CB,Liga MX - México,8.0,1.0,9,1.0,0.9
+115a67c4,2025-2026,Liga MX,CB,Liga MX - México,8.0,1.0,9,2.0,0.8181818181818182
+cb52d28d,2025-2026,Liga MX,CB,Liga MX - México,8.0,1.0,9,5.0,0.6428571428571429
+e1c7e365,2025-2026,Liga MX,CB,Liga MX - México,7.0,2.0,9,3.0,0.75
+06834adf,2025-2026,Liga MX,CB,Liga MX - México,7.0,2.0,9,3.0,0.75
+d4f99521,2025-2026,Liga MX,CB,Liga MX - México,7.0,0.0,7,0.0,1.0
+895a2427,2025-2026,Liga MX,CB,Liga MX - México,6.0,1.0,7,1.0,0.875
+f8c3bbb2,2025-2026,Liga MX,CB,Liga MX - México,6.0,0.0,6,3.0,0.6666666666666666
+a1ed5354,2025-2026,Liga MX,CB,Liga MX - México,5.0,3.0,8,1.0,0.8888888888888888
+f86cf2fd,2025-2026,Liga MX,CB,Liga MX - México,5.0,2.0,7,1.0,0.875
+41c13bc9,2025-2026,Liga MX,CB,Liga MX - México,0.0,1.0,1,0.0,1.0
+00242715,2025-2026,Ligue 1,CB,Ligue 1 - França,31.0,1.0,32,0.0,1.0
+a4a44eb0,2025-2026,Ligue 1,CB,Ligue 1 - França,27.0,0.0,27,0.0,1.0
+fbd6378b,2025-2026,Ligue 1,CB,Ligue 1 - França,25.0,0.0,25,5.0,0.8333333333333334
+7b505397,2025-2026,Ligue 1,CB,Ligue 1 - França,24.0,2.0,26,0.0,1.0
+ecbe2839,2025-2026,Ligue 1,CB,Ligue 1 - França,24.0,2.0,26,3.0,0.896551724137931
+37a6fdb3,2025-2026,Ligue 1,CB,Ligue 1 - França,24.0,2.0,26,3.0,0.896551724137931
+55abe554,2025-2026,Ligue 1,CB,Ligue 1 - França,23.0,0.0,23,4.0,0.8518518518518519
+88968486,2025-2026,Ligue 1,CB,Ligue 1 - França,22.0,4.0,26,2.0,0.9285714285714286
+7d3dfdfd,2025-2026,Ligue 1,CB,Ligue 1 - França,21.0,1.0,22,2.0,0.9166666666666666
+0b33f6ad,2025-2026,Ligue 1,CB,Ligue 1 - França,21.0,0.0,21,1.0,0.9545454545454546
+c3e4ecbb,2025-2026,Ligue 1,CB,Ligue 1 - França,20.0,0.0,20,0.0,1.0
+e76cb9cc,2025-2026,Ligue 1,CB,Ligue 1 - França,19.0,4.0,23,0.0,1.0
+c9829c9b,2025-2026,Ligue 1,CB,Ligue 1 - França,19.0,1.0,20,1.0,0.9523809523809523
+4654e5f5,2025-2026,Ligue 1,CB,Ligue 1 - França,19.0,0.0,19,0.0,1.0
+3f3a2cba,2025-2026,Ligue 1,CB,Ligue 1 - França,19.0,0.0,19,0.0,1.0
+4315f30d,2025-2026,Ligue 1,CB,Ligue 1 - França,19.0,0.0,19,0.0,1.0
+7e598f96,2025-2026,Ligue 1,CB,Ligue 1 - França,19.0,0.0,19,6.0,0.76
+d5f2f82b,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,3.0,21,1.0,0.9545454545454546
+51dbeea9,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,2.0,20,0.0,1.0
+eb7abf2e,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,2.0,20,0.0,1.0
+3322e296,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,2.0,20,4.0,0.8333333333333334
+9440e587,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,1.0,19,0.0,1.0
+a5f5d094,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,1.0,19,2.0,0.9047619047619048
+e6ff21be,2025-2026,Ligue 1,CB,Ligue 1 - França,18.0,0.0,18,0.0,1.0
+cef70c94,2025-2026,Ligue 1,CB,Ligue 1 - França,17.0,0.0,17,0.0,1.0
+ac89503b,2025-2026,Ligue 1,CB,Ligue 1 - França,17.0,0.0,17,1.0,0.9444444444444444
+61f80c89,2025-2026,Ligue 1,CB,Ligue 1 - França,17.0,0.0,17,3.0,0.85
+6bd603db,2025-2026,Ligue 1,CB,Ligue 1 - França,17.0,0.0,17,4.0,0.8095238095238095
+7c3ed041,2025-2026,Ligue 1,CB,Ligue 1 - França,16.0,5.0,21,1.0,0.9545454545454546
+0abb5072,2025-2026,Ligue 1,CB,Ligue 1 - França,16.0,1.0,17,0.0,1.0
+3f319bb9,2025-2026,Ligue 1,CB,Ligue 1 - França,16.0,1.0,17,1.0,0.9444444444444444
+16aa7d4c,2025-2026,Ligue 1,CB,Ligue 1 - França,16.0,0.0,16,1.0,0.9411764705882353
+17bb562c,2025-2026,Ligue 1,CB,Ligue 1 - França,16.0,0.0,16,1.0,0.9411764705882353
+6f22e535,2025-2026,Ligue 1,CB,Ligue 1 - França,15.0,1.0,16,0.0,1.0
+04ac78d2,2025-2026,Ligue 1,CB,Ligue 1 - França,14.0,0.0,14,0.0,1.0
+5b146df3,2025-2026,Ligue 1,CB,Ligue 1 - França,13.0,1.0,14,1.0,0.9333333333333333
+b8aedf06,2025-2026,Ligue 1,CB,Ligue 1 - França,13.0,0.0,13,2.0,0.8666666666666667
+9b545925,2025-2026,Ligue 1,CB,Ligue 1 - França,12.0,2.0,14,0.0,1.0
+0f933743,2025-2026,Ligue 1,CB,Ligue 1 - França,11.0,1.0,12,0.0,1.0
+c393a6c4,2025-2026,Ligue 1,CB,Ligue 1 - França,10.0,8.0,18,2.0,0.9
+e3e32fbb,2025-2026,Ligue 1,CB,Ligue 1 - França,10.0,1.0,11,0.0,1.0
+06c48679,2025-2026,Ligue 1,CB,Ligue 1 - França,10.0,0.0,10,0.0,1.0
+9dff291c,2025-2026,Ligue 1,CB,Ligue 1 - França,10.0,0.0,10,1.0,0.9090909090909091
+b2009f99,2025-2026,Ligue 1,CB,Ligue 1 - França,9.0,1.0,10,0.0,1.0
+7ce98c36,2025-2026,Ligue 1,CB,Ligue 1 - França,9.0,0.0,9,0.0,1.0
+ac861941,2025-2026,Ligue 1,CB,Ligue 1 - França,9.0,0.0,9,1.0,0.9
+22768e08,2025-2026,Ligue 1,CB,Ligue 1 - França,8.0,1.0,9,1.0,0.9
+6de23ab0,2025-2026,Ligue 1,CB,Ligue 1 - França,8.0,0.0,8,0.0,1.0
+6cd15657,2025-2026,Ligue 1,CB,Ligue 1 - França,8.0,0.0,8,2.0,0.8
+d313e8ff,2025-2026,Ligue 1,CB,Ligue 1 - França,6.0,3.0,9,5.0,0.6428571428571429
+ccc37bbb,2025-2026,Ligue 1,CB,Ligue 1 - França,6.0,1.0,7,1.0,0.875
+102c9665,2025-2026,Ligue 1,CB,Ligue 1 - França,6.0,0.0,6,0.0,1.0
+6f5ec8bb,2025-2026,Ligue 1,CB,Ligue 1 - França,6.0,0.0,6,3.0,0.6666666666666666
+547a72ad,2025-2026,Ligue 1,CB,Ligue 1 - França,4.0,1.0,5,1.0,0.8333333333333334
+676ef6b6,2025-2026,Ligue 1,CB,Ligue 1 - França,4.0,0.0,4,2.0,0.6666666666666666
+6669a59e,2025-2026,Ligue 1,CB,Ligue 1 - França,3.0,0.0,3,0.0,1.0
+d97144ea,2025-2026,Ligue 1,CB,Ligue 1 - França,0.0,1.0,1,0.0,1.0
+8470a4c2,2025,MLS,CB,MLS - EUA,44.0,2.0,46,3.0,0.9387755102040817
+016e419b,2025,MLS,CB,MLS - EUA,42.0,0.0,42,2.0,0.9545454545454546
+c70e3fe0,2025,MLS,CB,MLS - EUA,41.0,3.0,44,4.0,0.9166666666666666
+4c4ffacc,2025,MLS,CB,MLS - EUA,41.0,0.0,41,2.0,0.9534883720930233
+5bb02df4,2025,MLS,CB,MLS - EUA,40.0,0.0,40,2.0,0.9523809523809523
+782a95d9,2025,MLS,CB,MLS - EUA,40.0,0.0,40,6.0,0.8695652173913043
+6bfa0d3a,2025,MLS,CB,MLS - EUA,39.0,3.0,42,5.0,0.8936170212765957
+041deebd,2025,MLS,CB,MLS - EUA,38.0,0.0,38,3.0,0.926829268292683
+a3d67f70,2025,MLS,CB,MLS - EUA,37.0,3.0,40,2.0,0.9523809523809523
+ac65aef3,2025,MLS,CB,MLS - EUA,37.0,1.0,38,0.0,1.0
+b807c1dc,2025,MLS,CB,MLS - EUA,37.0,0.0,37,0.0,1.0
+8ca5c176,2025,MLS,CB,MLS - EUA,37.0,0.0,37,0.0,1.0
+e43c8d72,2025,MLS,CB,MLS - EUA,36.0,0.0,36,0.0,1.0
+7f35d14e,2025,MLS,CB,MLS - EUA,35.0,2.0,37,0.0,1.0
+8caf6772,2025,MLS,CB,MLS - EUA,35.0,2.0,37,2.0,0.9487179487179487
+4d6ec370,2025,MLS,CB,MLS - EUA,35.0,1.0,36,0.0,1.0
+f10983ae,2025,MLS,CB,MLS - EUA,35.0,1.0,36,12.0,0.75
+52fdf512,2025,MLS,CB,MLS - EUA,35.0,0.0,35,0.0,1.0
+9d83969b,2025,MLS,CB,MLS - EUA,35.0,0.0,35,2.0,0.9459459459459459
+0c6f2fa6,2025,MLS,CB,MLS - EUA,33.0,1.0,34,2.0,0.9444444444444444
+5b768b0f,2025,MLS,CB,MLS - EUA,33.0,0.0,33,2.0,0.9428571428571428
+41ba8175,2025,MLS,CB,MLS - EUA,32.0,3.0,35,1.0,0.9722222222222222
+caffaf5a,2025,MLS,CB,MLS - EUA,32.0,2.0,34,1.0,0.9714285714285714
+1124ac8a,2025,MLS,CB,MLS - EUA,32.0,1.0,33,1.0,0.9705882352941176
+149d8165,2025,MLS,CB,MLS - EUA,32.0,0.0,32,9.0,0.7804878048780488
+28b40c9c,2025,MLS,CB,MLS - EUA,32.0,0.0,32,16.0,0.6666666666666666
+b70be510,2025,MLS,CB,MLS - EUA,31.0,4.0,35,2.0,0.9459459459459459
+c90615e6,2025,MLS,CB,MLS - EUA,31.0,1.0,32,0.0,1.0
+bc4b0544,2025,MLS,CB,MLS - EUA,31.0,1.0,32,3.0,0.9142857142857143
+e1574c2d,2025,MLS,CB,MLS - EUA,31.0,1.0,32,4.0,0.8888888888888888
+b7b6e781,2025,MLS,CB,MLS - EUA,30.0,3.0,33,1.0,0.9705882352941176
+1627e6b5,2025,MLS,CB,MLS - EUA,30.0,3.0,33,3.0,0.9166666666666666
+c0a28fbd,2025,MLS,CB,MLS - EUA,30.0,2.0,32,1.0,0.9696969696969697
+0646bd8a,2025,MLS,CB,MLS - EUA,30.0,1.0,31,4.0,0.8857142857142857
+8ac454b5,2025,MLS,CB,MLS - EUA,29.0,3.0,32,2.0,0.9411764705882353
+ec27d954,2025,MLS,CB,MLS - EUA,29.0,1.0,30,5.0,0.8571428571428571
+80c718dd,2025,MLS,CB,MLS - EUA,28.0,3.0,31,2.0,0.9393939393939394
+366609b6,2025,MLS,CB,MLS - EUA,28.0,1.0,29,1.0,0.9666666666666667
+3fa61ade,2025,MLS,CB,MLS - EUA,28.0,0.0,28,1.0,0.9655172413793104
+1f462f95,2025,MLS,CB,MLS - EUA,27.0,4.0,31,5.0,0.8611111111111112
+83b6e15d,2025,MLS,CB,MLS - EUA,27.0,2.0,29,3.0,0.90625
+44014034,2025,MLS,CB,MLS - EUA,27.0,1.0,28,0.0,1.0
+02fbc447,2025,MLS,CB,MLS - EUA,26.0,6.0,32,4.0,0.8888888888888888
+5777eca0,2025,MLS,CB,MLS - EUA,26.0,4.0,30,1.0,0.967741935483871
+d8eb21b7,2025,MLS,CB,MLS - EUA,26.0,3.0,29,3.0,0.90625
+514725a0,2025,MLS,CB,MLS - EUA,25.0,2.0,27,2.0,0.9310344827586207
+5e388ecf,2025,MLS,CB,MLS - EUA,25.0,2.0,27,4.0,0.8709677419354839
+46b89640,2025,MLS,CB,MLS - EUA,25.0,0.0,25,0.0,1.0
+47ddcc22,2025,MLS,CB,MLS - EUA,25.0,0.0,25,15.0,0.625
+c2183cdd,2025,MLS,CB,MLS - EUA,24.0,4.0,28,1.0,0.9655172413793104
+4a07ae31,2025,MLS,CB,MLS - EUA,24.0,4.0,28,6.0,0.8235294117647058
+ce44f0de,2025,MLS,CB,MLS - EUA,24.0,1.0,25,1.0,0.9615384615384616
+582952f2,2025,MLS,CB,MLS - EUA,23.0,9.0,32,11.0,0.7441860465116279
+8c1b17b3,2025,MLS,CB,MLS - EUA,23.0,4.0,27,2.0,0.9310344827586207
+4fd77159,2025,MLS,CB,MLS - EUA,23.0,3.0,26,1.0,0.9629629629629629
+c6f99e42,2025,MLS,CB,MLS - EUA,23.0,2.0,25,0.0,1.0
+5a4280b1,2025,MLS,CB,MLS - EUA,23.0,1.0,24,0.0,1.0
+3f1b018e,2025,MLS,CB,MLS - EUA,22.0,4.0,26,1.0,0.9629629629629629
+6a0be032,2025,MLS,CB,MLS - EUA,22.0,2.0,24,1.0,0.96
+bd7d2e6d,2025,MLS,CB,MLS - EUA,22.0,1.0,23,1.0,0.9583333333333334
+0db5d2c8,2025,MLS,CB,MLS - EUA,22.0,1.0,23,2.0,0.92
+220fa883,2025,MLS,CB,MLS - EUA,21.0,4.0,25,5.0,0.8333333333333334
+9fc0f253,2025,MLS,CB,MLS - EUA,21.0,1.0,22,1.0,0.9565217391304348
+5f011e05,2025,MLS,CB,MLS - EUA,21.0,0.0,21,1.0,0.9545454545454546
+daf2b2ad,2025,MLS,CB,MLS - EUA,20.0,3.0,23,1.0,0.9583333333333334
+04391c12,2025,MLS,CB,MLS - EUA,20.0,3.0,23,8.0,0.7419354838709677
+70ac9e4f,2025,MLS,CB,MLS - EUA,19.0,2.0,21,8.0,0.7241379310344828
+037bebf4,2025,MLS,CB,MLS - EUA,19.0,1.0,20,2.0,0.9090909090909091
+c70b221c,2025,MLS,CB,MLS - EUA,19.0,1.0,20,13.0,0.6060606060606061
+39632554,2025,MLS,CB,MLS - EUA,19.0,0.0,19,2.0,0.9047619047619048
+552898bd,2025,MLS,CB,MLS - EUA,18.0,7.0,25,1.0,0.9615384615384616
+4a67f05b,2025,MLS,CB,MLS - EUA,18.0,6.0,24,8.0,0.75
+33d9d789,2025,MLS,CB,MLS - EUA,18.0,2.0,20,0.0,1.0
+2fb02c65,2025,MLS,CB,MLS - EUA,18.0,1.0,19,0.0,1.0
+f51b9ae1,2025,MLS,CB,MLS - EUA,17.0,7.0,24,14.0,0.631578947368421
+a5ec3ede,2025,MLS,CB,MLS - EUA,17.0,5.0,22,3.0,0.88
+55d8f630,2025,MLS,CB,MLS - EUA,16.0,6.0,22,2.0,0.9166666666666666
+672f4300,2025,MLS,CB,MLS - EUA,16.0,4.0,20,0.0,1.0
+2c8a91b9,2025,MLS,CB,MLS - EUA,16.0,2.0,18,0.0,1.0
+67f5e064,2025,MLS,CB,MLS - EUA,16.0,2.0,18,4.0,0.8181818181818182
+b86a64b2,2025,MLS,CB,MLS - EUA,16.0,0.0,16,2.0,0.8888888888888888
+324509e2,2025,MLS,CB,MLS - EUA,16.0,0.0,16,2.0,0.8888888888888888
+cdf65d12,2025,MLS,CB,MLS - EUA,15.0,3.0,18,9.0,0.6666666666666666
+23c75879,2025,MLS,CB,MLS - EUA,15.0,2.0,17,0.0,1.0
+e16db703,2025,MLS,CB,MLS - EUA,15.0,2.0,17,7.0,0.7083333333333334
+cc120b4f,2025,MLS,CB,MLS - EUA,14.0,5.0,19,1.0,0.95
+e2e96950,2025,MLS,CB,MLS - EUA,13.0,7.0,20,4.0,0.8333333333333334
+d79a8c87,2025,MLS,CB,MLS - EUA,13.0,5.0,18,2.0,0.9
+965fc36d,2025,MLS,CB,MLS - EUA,13.0,3.0,16,0.0,1.0
+4988a44d,2025,MLS,CB,MLS - EUA,13.0,2.0,15,1.0,0.9375
+0d32b115,2025,MLS,CB,MLS - EUA,13.0,1.0,14,0.0,1.0
+9614b550,2025,MLS,CB,MLS - EUA,13.0,1.0,14,1.0,0.9333333333333333
+658a3134,2025,MLS,CB,MLS - EUA,12.0,6.0,18,7.0,0.72
+46c6ba76,2025,MLS,CB,MLS - EUA,12.0,5.0,17,4.0,0.8095238095238095
+ca1e91a1,2025,MLS,CB,MLS - EUA,12.0,1.0,13,1.0,0.9285714285714286
+c6d233e3,2025,MLS,CB,MLS - EUA,12.0,1.0,13,8.0,0.6190476190476191
+57cefb87,2025,MLS,CB,MLS - EUA,11.0,7.0,18,1.0,0.9473684210526315
+b1c742df,2025,MLS,CB,MLS - EUA,10.0,4.0,14,3.0,0.8235294117647058
+ad411288,2025,MLS,CB,MLS - EUA,9.0,6.0,15,3.0,0.8333333333333334
+7745640e,2025,MLS,CB,MLS - EUA,9.0,4.0,13,0.0,1.0
+b6111d16,2025,MLS,CB,MLS - EUA,9.0,2.0,11,0.0,1.0
+0fb34657,2025,MLS,CB,MLS - EUA,8.0,0.0,8,1.0,0.8888888888888888
+618ab91f,2025,MLS,CB,MLS - EUA,7.0,6.0,13,7.0,0.65
+3e10c876,2025,MLS,CB,MLS - EUA,5.0,2.0,7,2.0,0.7777777777777778
+70d8e84c,2025-2026,MLS,CB,MLS - EUA,20.0,0.0,20,6.0,0.7692307692307693
+e34fc66d,2025-2026,Premier League,CB,Premier League - Inglaterra,54.0,0.0,54,0.0,1.0
+288e1e13,2025-2026,Premier League,CB,Premier League - Inglaterra,53.0,0.0,53,0.0,1.0
+a36524bf,2025-2026,Premier League,CB,Premier League - Inglaterra,48.0,2.0,50,10.0,0.8333333333333334
+bb08bce9,2025-2026,Premier League,CB,Premier League - Inglaterra,42.0,2.0,44,2.0,0.9565217391304348
+6fdac234,2025-2026,Premier League,CB,Premier League - Inglaterra,38.0,2.0,40,0.0,1.0
+defcfd32,2025-2026,Premier League,CB,Premier League - Inglaterra,36.0,4.0,40,2.0,0.9523809523809523
+e06683ca,2025-2026,Premier League,CB,Premier League - Inglaterra,36.0,0.0,36,0.0,1.0
+d0706b27,2025-2026,Premier League,CB,Premier League - Inglaterra,35.0,1.0,36,0.0,1.0
+38f300f3,2025-2026,Premier League,CB,Premier League - Inglaterra,34.0,8.0,42,2.0,0.9545454545454546
+277c49ed,2025-2026,Premier League,CB,Premier League - Inglaterra,33.0,0.0,33,0.0,1.0
+75f1ed80,2025-2026,Premier League,CB,Premier League - Inglaterra,32.0,4.0,36,4.0,0.9
+5ed9b537,2025-2026,Premier League,CB,Premier League - Inglaterra,32.0,0.0,32,1.0,0.9696969696969697
+bee704fc,2025-2026,Premier League,CB,Premier League - Inglaterra,31.0,1.0,32,0.0,1.0
+0313a347,2025-2026,Premier League,CB,Premier League - Inglaterra,30.0,1.0,31,2.0,0.9393939393939394
+0a3d6d2b,2025-2026,Premier League,CB,Premier League - Inglaterra,30.0,1.0,31,2.0,0.9393939393939394
+ccce7025,2025-2026,Premier League,CB,Premier League - Inglaterra,29.0,6.0,35,2.0,0.9459459459459459
+31c69ef1,2025-2026,Premier League,CB,Premier League - Inglaterra,29.0,1.0,30,1.0,0.967741935483871
+c81d773d,2025-2026,Premier League,CB,Premier League - Inglaterra,28.0,10.0,38,2.0,0.95
+a8c0acb7,2025-2026,Premier League,CB,Premier League - Inglaterra,28.0,8.0,36,12.0,0.75
+5515376c,2025-2026,Premier League,CB,Premier League - Inglaterra,28.0,1.0,29,3.0,0.90625
+a8c19eb8,2025-2026,Premier League,CB,Premier League - Inglaterra,28.0,1.0,29,3.0,0.90625
+8fe2a392,2025-2026,Premier League,CB,Premier League - Inglaterra,28.0,0.0,28,6.0,0.8235294117647058
+ff5ea0bf,2025-2026,Premier League,CB,Premier League - Inglaterra,26.0,2.0,28,4.0,0.875
+972aeb2a,2025-2026,Premier League,CB,Premier League - Inglaterra,26.0,1.0,27,1.0,0.9642857142857143
+a3d94a58,2025-2026,Premier League,CB,Premier League - Inglaterra,25.0,1.0,26,0.0,1.0
+15ea812b,2025-2026,Premier League,CB,Premier League - Inglaterra,25.0,0.0,25,0.0,1.0
+67ac5bb8,2025-2026,Premier League,CB,Premier League - Inglaterra,24.0,1.0,25,2.0,0.9259259259259259
+8d62d31a,2025-2026,Premier League,CB,Premier League - Inglaterra,24.0,0.0,24,0.0,1.0
+7bf9400b,2025-2026,Premier League,CB,Premier League - Inglaterra,22.0,0.0,22,0.0,1.0
+4fd08daa,2025-2026,Premier League,CB,Premier League - Inglaterra,22.0,0.0,22,4.0,0.8461538461538461
+c5b7c315,2025-2026,Premier League,CB,Premier League - Inglaterra,21.0,0.0,21,0.0,1.0
+35141f4c,2025-2026,Premier League,CB,Premier League - Inglaterra,21.0,0.0,21,2.0,0.9130434782608695
+1a066e69,2025-2026,Premier League,CB,Premier League - Inglaterra,20.0,0.0,20,0.0,1.0
+282f75f3,2025-2026,Premier League,CB,Premier League - Inglaterra,19.0,1.0,20,0.0,1.0
+f4d296e4,2025-2026,Premier League,CB,Premier League - Inglaterra,19.0,1.0,20,0.0,1.0
+1704b0b8,2025-2026,Premier League,CB,Premier League - Inglaterra,19.0,0.0,19,3.0,0.8636363636363636
+00963611,2025-2026,Premier League,CB,Premier League - Inglaterra,18.0,3.0,21,0.0,1.0
+532e1e4f,2025-2026,Premier League,CB,Premier League - Inglaterra,18.0,2.0,20,0.0,1.0
+d0f72bf1,2025-2026,Premier League,CB,Premier League - Inglaterra,18.0,1.0,19,2.0,0.9047619047619048
+88f130ed,2025-2026,Premier League,CB,Premier League - Inglaterra,18.0,0.0,18,0.0,1.0
+5ad50391,2025-2026,Premier League,CB,Premier League - Inglaterra,18.0,0.0,18,9.0,0.6666666666666666
+6e33125f,2025-2026,Premier League,CB,Premier League - Inglaterra,16.0,6.0,22,3.0,0.88
+06df8256,2025-2026,Premier League,CB,Premier League - Inglaterra,16.0,4.0,20,2.0,0.9090909090909091
+1bfb6fef,2025-2026,Premier League,CB,Premier League - Inglaterra,16.0,1.0,17,1.0,0.9444444444444444
+3d554589,2025-2026,Premier League,CB,Premier League - Inglaterra,16.0,0.0,16,2.0,0.8888888888888888
+2baec6ce,2025-2026,Premier League,CB,Premier League - Inglaterra,16.0,0.0,16,2.0,0.8888888888888888
+9c94165b,2025-2026,Premier League,CB,Premier League - Inglaterra,16.0,0.0,16,6.0,0.7272727272727273
+c8aa95da,2025-2026,Premier League,CB,Premier League - Inglaterra,15.0,5.0,20,1.0,0.9523809523809523
+edc98fac,2025-2026,Premier League,CB,Premier League - Inglaterra,15.0,1.0,16,2.0,0.8888888888888888
+0f41e2ee,2025-2026,Premier League,CB,Premier League - Inglaterra,14.0,2.0,16,1.0,0.9411764705882353
+d6e53a3a,2025-2026,Premier League,CB,Premier League - Inglaterra,14.0,0.0,14,2.0,0.875
+6763f716,2025-2026,Premier League,CB,Premier League - Inglaterra,13.0,9.0,22,0.0,1.0
+1e159d70,2025-2026,Premier League,CB,Premier League - Inglaterra,13.0,2.0,15,0.0,1.0
+0abc51f2,2025-2026,Premier League,CB,Premier League - Inglaterra,13.0,1.0,14,0.0,1.0
+f0caab96,2025-2026,Premier League,CB,Premier League - Inglaterra,13.0,0.0,13,2.0,0.8666666666666667
+eaeca114,2025-2026,Premier League,CB,Premier League - Inglaterra,12.0,16.0,28,18.0,0.6086956521739131
+132a82f1,2025-2026,Premier League,CB,Premier League - Inglaterra,12.0,2.0,14,3.0,0.8235294117647058
+5eecec3d,2025-2026,Premier League,CB,Premier League - Inglaterra,12.0,1.0,13,4.0,0.7647058823529411
+403f5d20,2025-2026,Premier League,CB,Premier League - Inglaterra,12.0,0.0,12,2.0,0.8571428571428571
+ec75ee25,2025-2026,Premier League,CB,Premier League - Inglaterra,10.0,2.0,12,1.0,0.9230769230769231
+c478319d,2025-2026,Premier League,CB,Premier League - Inglaterra,10.0,2.0,12,4.0,0.75
+f5deef4c,2025-2026,Premier League,CB,Premier League - Inglaterra,10.0,1.0,11,6.0,0.6470588235294118
+e541326e,2025-2026,Premier League,CB,Premier League - Inglaterra,10.0,0.0,10,0.0,1.0
+64e17fab,2025-2026,Premier League,CB,Premier League - Inglaterra,9.0,2.0,11,1.0,0.9166666666666666
+dc1ce4f5,2025-2026,Premier League,CB,Premier League - Inglaterra,8.0,6.0,14,2.0,0.875
+a712ca2b,2025-2026,Premier League,CB,Premier League - Inglaterra,8.0,3.0,11,1.0,0.9166666666666666
+3684108d,2025-2026,Premier League,CB,Premier League - Inglaterra,8.0,3.0,11,6.0,0.6470588235294118
+01834aa0,2025-2026,Premier League,CB,Premier League - Inglaterra,8.0,2.0,10,6.0,0.625
+d17ce930,2025-2026,Premier League,CB,Premier League - Inglaterra,7.0,2.0,9,5.0,0.6428571428571429
+8397a50c,2025-2026,Premier League,CB,Premier League - Inglaterra,7.0,1.0,8,0.0,1.0
+d8931174,2025-2026,Premier League,CB,Premier League - Inglaterra,6.0,4.0,10,1.0,0.9090909090909091
+bac46a10,2025-2026,Premier League,CB,Premier League - Inglaterra,6.0,4.0,10,1.0,0.9090909090909091
+22ae86f9,2025-2026,Premier League,CB,Premier League - Inglaterra,6.0,3.0,9,0.0,1.0
+d2b32e91,2025-2026,Premier League,CB,Premier League - Inglaterra,6.0,1.0,7,1.0,0.875
+a5212312,2025-2026,Premier League,CB,Premier League - Inglaterra,3.0,4.0,7,1.0,0.875
+58630379,2025-2026,Premier League,CB,Premier League - Inglaterra,2.0,1.0,3,1.0,0.75
+ac31d35e,2025-2026,Premier League,CB,Premier League - Inglaterra,2.0,0.0,2,1.0,0.6666666666666666
+a4e85758,2025-2026,Premier League,CB,Premier League - Inglaterra,1.0,2.0,3,2.0,0.6
+450ab6fc,2025-2026,Premier League,CB,Premier League - Inglaterra,0.0,2.0,2,0.0,1.0
+620922ed,2025-2026,Premier League,CB,Premier League - Inglaterra,0.0,1.0,1,0.0,1.0
+29c28f01,2025,Primeira Liga,CB,Primeira Liga - Portugal,22.0,2.0,24,3.0,0.8888888888888888
+0d267745,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,30.0,0.0,30,0.0,1.0
+33651873,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,26.0,0.0,26,0.0,1.0
+9e39fa2d,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,25.0,3.0,28,2.0,0.9333333333333333
+4115ce4e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,24.0,1.0,25,1.0,0.9615384615384616
+39d8474f,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,21.0,0.0,21,0.0,1.0
+49cfaf2e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,20.0,0.0,20,0.0,1.0
+5350c0dc,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,19.0,0.0,19,3.0,0.8636363636363636
+dc3e663e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,19.0,0.0,19,5.0,0.7916666666666666
+1394bf42,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,18.0,1.0,19,3.0,0.8636363636363636
+8f0435c7,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,17.0,3.0,20,1.0,0.9523809523809523
+088ae0d1,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,17.0,0.0,17,0.0,1.0
+b2e208ba,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,17.0,0.0,17,0.0,1.0
+621576f9,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,17.0,0.0,17,0.0,1.0
+2ba08f4e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,17.0,0.0,17,1.0,0.9444444444444444
+fa5f51c8,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,1.0,17,0.0,1.0
+672f3db0,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,0.0,1.0
+90f87966,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,0.0,1.0
+2aa27bb3,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,0.0,1.0
+276127e4,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,0.0,1.0
+dcd94cdb,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,0.0,1.0
+2008d453,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,0.0,1.0
+a3f386fc,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,1.0,0.9411764705882353
+0adc7748,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,1.0,0.9411764705882353
+8eef18aa,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,16.0,0.0,16,3.0,0.8421052631578947
+6e15c550,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,15.0,0.0,15,0.0,1.0
+a7cf1541,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,15.0,0.0,15,1.0,0.9375
+57701cbd,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,15.0,0.0,15,1.0,0.9375
+4928972f,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,14.0,2.0,16,0.0,1.0
+eeff4ab4,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,14.0,1.0,15,0.0,1.0
+dd5d1c85,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,14.0,0.0,14,3.0,0.8235294117647058
+bc6f5f06,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,13.0,1.0,14,0.0,1.0
+c6a9b5eb,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,13.0,1.0,14,2.0,0.875
+c795c408,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,13.0,0.0,13,0.0,1.0
+064461b7,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,12.0,2.0,14,2.0,0.875
+0fa11d7d,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,12.0,2.0,14,5.0,0.7368421052631579
+8f3b1b5d,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,12.0,1.0,13,0.0,1.0
+d588a2bd,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,12.0,1.0,13,0.0,1.0
+341e14aa,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,11.0,1.0,12,0.0,1.0
+15a5e48c,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,11.0,1.0,12,0.0,1.0
+394be156,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,11.0,1.0,12,1.0,0.9230769230769231
+1827a42d,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,11.0,1.0,12,3.0,0.8
+d0ef8835,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,11.0,0.0,11,0.0,1.0
+33f40a36,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,11.0,0.0,11,2.0,0.8461538461538461
+adc77724,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,10.0,2.0,12,5.0,0.7058823529411765
+2ad9cabf,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,10.0,2.0,12,6.0,0.6666666666666666
+c7e5562e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,9.0,2.0,11,0.0,1.0
+a8fbae1d,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,9.0,2.0,11,0.0,1.0
+847e4cd8,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,7.0,2.0,9,0.0,1.0
+62c5ba1b,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,7.0,0.0,7,0.0,1.0
+c904f3d5,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,7.0,0.0,7,0.0,1.0
+f16755ca,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,6.0,5.0,11,2.0,0.8461538461538461
+9cc33204,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,6.0,2.0,8,0.0,1.0
+7e04dd8e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,6.0,2.0,8,1.0,0.8888888888888888
+b31d385e,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,6.0,0.0,6,0.0,1.0
+4b3c863f,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,5.0,7.0,12,0.0,1.0
+d97cfe6f,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,5.0,3.0,8,1.0,0.8888888888888888
+a8f07c8f,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,5.0,2.0,7,0.0,1.0
+14eb33fb,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,5.0,1.0,6,1.0,0.8571428571428571
+75926036,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,5.0,0.0,5,0.0,1.0
+e439f258,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,3.0,2.0,5,0.0,1.0
+efd44b24,2025-2026,Primeira Liga,CB,Primeira Liga - Portugal,0.0,1.0,1,0.0,1.0
+c56dc39e,2025,Serie A,CB,Serie A - Italia,10.0,10.0,20,0.0,1.0
+5eaed77a,2025-2026,Serie A,CB,Serie A - Italia,31.0,0.0,31,1.0,0.96875
+834fea76,2025-2026,Serie A,CB,Serie A - Italia,29.0,1.0,30,0.0,1.0
+5aa53281,2025-2026,Serie A,CB,Serie A - Italia,29.0,1.0,30,0.0,1.0
+89ac64a6,2025-2026,Serie A,CB,Serie A - Italia,28.0,3.0,31,0.0,1.0
+6eee05f1,2025-2026,Serie A,CB,Serie A - Italia,28.0,2.0,30,0.0,1.0
+441197b8,2025-2026,Serie A,CB,Serie A - Italia,28.0,1.0,29,1.0,0.9666666666666667
+75b86fb3,2025-2026,Serie A,CB,Serie A - Italia,28.0,0.0,28,0.0,1.0
+25146df0,2025-2026,Serie A,CB,Serie A - Italia,28.0,0.0,28,0.0,1.0
+2a6cd437,2025-2026,Serie A,CB,Serie A - Italia,27.0,0.0,27,2.0,0.9310344827586207
+d0ee1652,2025-2026,Serie A,CB,Serie A - Italia,26.0,0.0,26,0.0,1.0
+12806697,2025-2026,Serie A,CB,Serie A - Italia,25.0,4.0,29,0.0,1.0
+f31def1e,2025-2026,Serie A,CB,Serie A - Italia,25.0,0.0,25,0.0,1.0
+80490d7f,2025-2026,Serie A,CB,Serie A - Italia,24.0,2.0,26,1.0,0.9629629629629629
+34e4dc3b,2025-2026,Serie A,CB,Serie A - Italia,24.0,0.0,24,1.0,0.96
+0670ee51,2025-2026,Serie A,CB,Serie A - Italia,23.0,1.0,24,0.0,1.0
+d8c54a50,2025-2026,Serie A,CB,Serie A - Italia,23.0,0.0,23,0.0,1.0
+a54ef587,2025-2026,Serie A,CB,Serie A - Italia,23.0,0.0,23,0.0,1.0
+19452285,2025-2026,Serie A,CB,Serie A - Italia,22.0,1.0,23,0.0,1.0
+4b3e1a38,2025-2026,Serie A,CB,Serie A - Italia,22.0,0.0,22,0.0,1.0
+426dda23,2025-2026,Serie A,CB,Serie A - Italia,22.0,0.0,22,1.0,0.9565217391304348
+d9764034,2025-2026,Serie A,CB,Serie A - Italia,22.0,0.0,22,2.0,0.9166666666666666
+1f3afdcb,2025-2026,Serie A,CB,Serie A - Italia,21.0,2.0,23,2.0,0.92
+5a08ee41,2025-2026,Serie A,CB,Serie A - Italia,21.0,0.0,21,0.0,1.0
+7edfbb8a,2025-2026,Serie A,CB,Serie A - Italia,21.0,0.0,21,1.0,0.9545454545454546
+c235e803,2025-2026,Serie A,CB,Serie A - Italia,20.0,1.0,21,0.0,1.0
+9c435456,2025-2026,Serie A,CB,Serie A - Italia,20.0,0.0,20,0.0,1.0
+e53b5534,2025-2026,Serie A,CB,Serie A - Italia,19.0,1.0,20,0.0,1.0
+997fff07,2025-2026,Serie A,CB,Serie A - Italia,19.0,0.0,19,0.0,1.0
+3ead85f9,2025-2026,Serie A,CB,Serie A - Italia,19.0,0.0,19,0.0,1.0
+5e3ecc35,2025-2026,Serie A,CB,Serie A - Italia,18.0,4.0,22,0.0,1.0
+4ae67f27,2025-2026,Serie A,CB,Serie A - Italia,18.0,4.0,22,4.0,0.8461538461538461
+555f3a0b,2025-2026,Serie A,CB,Serie A - Italia,18.0,3.0,21,1.0,0.9545454545454546
+99d8fc35,2025-2026,Serie A,CB,Serie A - Italia,18.0,1.0,19,2.0,0.9047619047619048
+1223765c,2025-2026,Serie A,CB,Serie A - Italia,18.0,0.0,18,2.0,0.9
+8c63fae5,2025-2026,Serie A,CB,Serie A - Italia,18.0,0.0,18,6.0,0.75
+b3a20f18,2025-2026,Serie A,CB,Serie A - Italia,17.0,1.0,18,0.0,1.0
+4772b1d1,2025-2026,Serie A,CB,Serie A - Italia,17.0,1.0,18,0.0,1.0
+914ab9a1,2025-2026,Serie A,CB,Serie A - Italia,17.0,0.0,17,0.0,1.0
+b35a7399,2025-2026,Serie A,CB,Serie A - Italia,17.0,0.0,17,3.0,0.85
+4c6f9258,2025-2026,Serie A,CB,Serie A - Italia,17.0,0.0,17,6.0,0.7391304347826086
+45a03961,2025-2026,Serie A,CB,Serie A - Italia,17.0,0.0,17,6.0,0.7391304347826086
+986dc2e3,2025-2026,Serie A,CB,Serie A - Italia,16.0,4.0,20,4.0,0.8333333333333334
+de13cee5,2025-2026,Serie A,CB,Serie A - Italia,16.0,1.0,17,0.0,1.0
+55db5c36,2025-2026,Serie A,CB,Serie A - Italia,16.0,1.0,17,0.0,1.0
+6d5701f2,2025-2026,Serie A,CB,Serie A - Italia,16.0,0.0,16,0.0,1.0
+5cbb5ad6,2025-2026,Serie A,CB,Serie A - Italia,16.0,0.0,16,4.0,0.8
+79083382,2025-2026,Serie A,CB,Serie A - Italia,15.0,7.0,22,0.0,1.0
+6b635f5c,2025-2026,Serie A,CB,Serie A - Italia,15.0,3.0,18,0.0,1.0
+3963c25b,2025-2026,Serie A,CB,Serie A - Italia,15.0,2.0,17,0.0,1.0
+aa54ec6f,2025-2026,Serie A,CB,Serie A - Italia,15.0,1.0,16,2.0,0.8888888888888888
+d3225ad1,2025-2026,Serie A,CB,Serie A - Italia,14.0,3.0,17,1.0,0.9444444444444444
+b6b6bfc4,2025-2026,Serie A,CB,Serie A - Italia,13.0,5.0,18,0.0,1.0
+815c314f,2025-2026,Serie A,CB,Serie A - Italia,13.0,5.0,18,2.0,0.9
+be170419,2025-2026,Serie A,CB,Serie A - Italia,13.0,2.0,15,3.0,0.8333333333333334
+b96b595c,2025-2026,Serie A,CB,Serie A - Italia,13.0,1.0,14,1.0,0.9333333333333333
+18dd3219,2025-2026,Serie A,CB,Serie A - Italia,13.0,1.0,14,1.0,0.9333333333333333
+f4797849,2025-2026,Serie A,CB,Serie A - Italia,12.0,4.0,16,1.0,0.9411764705882353
+b4a014b1,2025-2026,Serie A,CB,Serie A - Italia,12.0,1.0,13,1.0,0.9285714285714286
+42ff58c3,2025-2026,Serie A,CB,Serie A - Italia,11.0,5.0,16,1.0,0.9411764705882353
+a39d11bc,2025-2026,Serie A,CB,Serie A - Italia,11.0,4.0,15,0.0,1.0
+de0f152c,2025-2026,Serie A,CB,Serie A - Italia,11.0,2.0,13,2.0,0.8666666666666667
+5fd5ed86,2025-2026,Serie A,CB,Serie A - Italia,11.0,1.0,12,0.0,1.0
+fadf9a05,2025-2026,Serie A,CB,Serie A - Italia,11.0,0.0,11,3.0,0.7857142857142857
+04b40c58,2025-2026,Serie A,CB,Serie A - Italia,9.0,3.0,12,6.0,0.6666666666666666
+011d370e,2025-2026,Serie A,CB,Serie A - Italia,9.0,2.0,11,2.0,0.8461538461538461
+a43e4f9c,2025-2026,Serie A,CB,Serie A - Italia,9.0,0.0,9,3.0,0.75
+34bb6fbd,2025-2026,Serie A,CB,Serie A - Italia,8.0,6.0,14,2.0,0.875
+d0d8dd44,2025-2026,Serie A,CB,Serie A - Italia,8.0,0.0,8,3.0,0.7272727272727273
+1e9aa637,2025-2026,Serie A,CB,Serie A - Italia,7.0,2.0,9,0.0,1.0
+b8cd2ae4,2025-2026,Serie A,CB,Serie A - Italia,7.0,1.0,8,0.0,1.0
+8f72c9d2,2025-2026,Serie A,CB,Serie A - Italia,7.0,0.0,7,1.0,0.875
+5967328c,2025-2026,Serie A,CB,Serie A - Italia,7.0,0.0,7,1.0,0.875
+3935e52e,2025-2026,Serie A,CB,Serie A - Italia,6.0,3.0,9,1.0,0.9
+2063e21d,2025-2026,Serie A,CB,Serie A - Italia,6.0,2.0,8,2.0,0.8
+a214da59,2025-2026,Serie A,CB,Serie A - Italia,6.0,1.0,7,1.0,0.875
+75438a9a,2025-2026,Serie A,CB,Serie A - Italia,5.0,8.0,13,3.0,0.8125
+14b8fcdf,2025-2026,Serie A,CB,Serie A - Italia,5.0,3.0,8,1.0,0.8888888888888888
+4bd414c1,2025-2026,Serie A,CB,Serie A - Italia,5.0,2.0,7,0.0,1.0
+3f5f38fb,2025-2026,Serie A,CB,Serie A - Italia,5.0,2.0,7,1.0,0.875
+84594618,2025-2026,Serie A,CB,Serie A - Italia,5.0,0.0,5,0.0,1.0
+cb2e6751,2025-2026,Serie A,CB,Serie A - Italia,4.0,2.0,6,2.0,0.75
+9cedad4b,2025-2026,Serie A,CB,Serie A - Italia,4.0,2.0,6,3.0,0.6666666666666666
+0704d719,2025-2026,Serie A,CB,Serie A - Italia,3.0,0.0,3,0.0,1.0
+e97adead,2025-2026,Serie A,CB,Serie A - Italia,2.0,6.0,8,1.0,0.8888888888888888
+051104b5,2025-2026,Serie A,CB,Serie A - Italia,2.0,5.0,7,1.0,0.875
+d9624b51,2025-2026,Serie A,CB,Serie A - Italia,2.0,3.0,5,0.0,1.0
+387335e7,2025-2026,Serie A,CB,Serie A - Italia,2.0,1.0,3,0.0,1.0
+9ba7b4fa,2025-2026,Serie A,CB,Serie A - Italia,2.0,1.0,3,0.0,1.0
+030d6f99,2025-2026,Serie A,CB,Serie A - Italia,2.0,0.0,2,0.0,1.0
+64e6778a,2025-2026,Serie A,CB,Serie A - Italia,1.0,1.0,2,0.0,1.0
+e14e10b1,2025-2026,Serie A,CB,Serie A - Italia,0.0,1.0,1,0.0,1.0
+d5ce52a5,2025,Série A,CB,Série A - Brasil,48.0,1.0,49,2.0,0.9607843137254902
+bd247251,2025,Série A,CB,Série A - Brasil,47.0,1.0,48,3.0,0.9411764705882353
+b9863758,2025,Série A,CB,Série A - Brasil,44.0,0.0,44,3.0,0.9361702127659575
+fe0a346d,2025,Série A,CB,Série A - Brasil,43.0,0.0,43,3.0,0.9347826086956522
+b18a3023,2025,Série A,CB,Série A - Brasil,43.0,0.0,43,12.0,0.7818181818181819
+d4f034db,2025,Série A,CB,Série A - Brasil,39.0,0.0,39,2.0,0.9512195121951219
+470d197b,2025,Série A,CB,Série A - Brasil,39.0,0.0,39,4.0,0.9069767441860465
+53834fa2,2025,Série A,CB,Série A - Brasil,38.0,1.0,39,5.0,0.8863636363636364
+7aa882a2,2025,Série A,CB,Série A - Brasil,38.0,0.0,38,2.0,0.95
+a548281c,2025,Série A,CB,Série A - Brasil,37.0,1.0,38,2.0,0.95
+341cadaf,2025,Série A,CB,Série A - Brasil,36.0,0.0,36,1.0,0.972972972972973
+afb23fa3,2025,Série A,CB,Série A - Brasil,35.0,0.0,35,1.0,0.9722222222222222
+b1805c80,2025,Série A,CB,Série A - Brasil,34.0,0.0,34,0.0,1.0
+d6d0c8bb,2025,Série A,CB,Série A - Brasil,34.0,0.0,34,0.0,1.0
+86e7deaf,2025,Série A,CB,Série A - Brasil,33.0,1.0,34,0.0,1.0
+2dc5144f,2025,Série A,CB,Série A - Brasil,33.0,0.0,33,2.0,0.9428571428571428
+25b28b59,2025,Série A,CB,Série A - Brasil,32.0,3.0,35,0.0,1.0
+10fe831e,2025,Série A,CB,Série A - Brasil,31.0,1.0,32,0.0,1.0
+4322e5d7,2025,Série A,CB,Série A - Brasil,31.0,0.0,31,0.0,1.0
+91bf16f7,2025,Série A,CB,Série A - Brasil,30.0,1.0,31,1.0,0.96875
+d60cf08d,2025,Série A,CB,Série A - Brasil,30.0,0.0,30,4.0,0.8823529411764706
+7b9ab588,2025,Série A,CB,Série A - Brasil,29.0,2.0,31,0.0,1.0
+9edddc34,2025,Série A,CB,Série A - Brasil,29.0,1.0,30,1.0,0.967741935483871
+e1524457,2025,Série A,CB,Série A - Brasil,28.0,4.0,32,3.0,0.9142857142857143
+2083298b,2025,Série A,CB,Série A - Brasil,28.0,2.0,30,0.0,1.0
+269dbfc6,2025,Série A,CB,Série A - Brasil,27.0,3.0,30,0.0,1.0
+fa066690,2025,Série A,CB,Série A - Brasil,27.0,0.0,27,0.0,1.0
+b5bf1770,2025,Série A,CB,Série A - Brasil,27.0,0.0,27,0.0,1.0
+168a2e81,2025,Série A,CB,Série A - Brasil,27.0,0.0,27,8.0,0.7714285714285715
+7483d9f9,2025,Série A,CB,Série A - Brasil,26.0,2.0,28,1.0,0.9655172413793104
+f2c1300a,2025,Série A,CB,Série A - Brasil,26.0,1.0,27,6.0,0.8181818181818182
+719aab45,2025,Série A,CB,Série A - Brasil,25.0,2.0,27,17.0,0.6136363636363636
+35ba6188,2025,Série A,CB,Série A - Brasil,25.0,0.0,25,0.0,1.0
+c455a045,2025,Série A,CB,Série A - Brasil,25.0,0.0,25,5.0,0.8333333333333334
+b2dfa423,2025,Série A,CB,Série A - Brasil,24.0,2.0,26,5.0,0.8387096774193549
+e2a29d9d,2025,Série A,CB,Série A - Brasil,24.0,0.0,24,0.0,1.0
+d0b29bbd,2025,Série A,CB,Série A - Brasil,23.0,2.0,25,0.0,1.0
+dcae46d5,2025,Série A,CB,Série A - Brasil,23.0,1.0,24,0.0,1.0
+a5549ec1,2025,Série A,CB,Série A - Brasil,23.0,1.0,24,0.0,1.0
+33f2fd18,2025,Série A,CB,Série A - Brasil,23.0,0.0,23,0.0,1.0
+a92be6c1,2025,Série A,CB,Série A - Brasil,22.0,1.0,23,1.0,0.9583333333333334
+5b37f2f8,2025,Série A,CB,Série A - Brasil,22.0,1.0,23,1.0,0.9583333333333334
+eddf365e,2025,Série A,CB,Série A - Brasil,22.0,1.0,23,2.0,0.92
+eab48ffb,2025,Série A,CB,Série A - Brasil,22.0,0.0,22,1.0,0.9565217391304348
+1155a7ba,2025,Série A,CB,Série A - Brasil,21.0,2.0,23,0.0,1.0
+f648b2e1,2025,Série A,CB,Série A - Brasil,21.0,1.0,22,6.0,0.7857142857142857
+d618c9b3,2025,Série A,CB,Série A - Brasil,21.0,0.0,21,0.0,1.0
+94b2001f,2025,Série A,CB,Série A - Brasil,20.0,6.0,26,4.0,0.8666666666666667
+574fff8c,2025,Série A,CB,Série A - Brasil,20.0,2.0,22,3.0,0.88
+72c01cfb,2025,Série A,CB,Série A - Brasil,20.0,2.0,22,4.0,0.8461538461538461
+af54b2db,2025,Série A,CB,Série A - Brasil,20.0,1.0,21,0.0,1.0
+ea95d7a6,2025,Série A,CB,Série A - Brasil,20.0,1.0,21,1.0,0.9545454545454546
+5b6e7010,2025,Série A,CB,Série A - Brasil,20.0,0.0,20,1.0,0.9523809523809523
+2e005e3b,2025,Série A,CB,Série A - Brasil,19.0,4.0,23,3.0,0.8846153846153846
+a9be27f2,2025,Série A,CB,Série A - Brasil,19.0,0.0,19,2.0,0.9047619047619048
+ea41ddf7,2025,Série A,CB,Série A - Brasil,18.0,0.0,18,1.0,0.9473684210526315
+a9f8c8c2,2025,Série A,CB,Série A - Brasil,18.0,0.0,18,2.0,0.9
+a378a02a,2025,Série A,CB,Série A - Brasil,17.0,5.0,22,2.0,0.9166666666666666
+cd51f56f,2025,Série A,CB,Série A - Brasil,17.0,1.0,18,2.0,0.9
+27f4a416,2025,Série A,CB,Série A - Brasil,17.0,1.0,18,4.0,0.8181818181818182
+4dd6bb79,2025,Série A,CB,Série A - Brasil,16.0,3.0,19,0.0,1.0
+01dc4e41,2025,Série A,CB,Série A - Brasil,15.0,7.0,22,2.0,0.9166666666666666
+06c06e58,2025,Série A,CB,Série A - Brasil,15.0,1.0,16,2.0,0.8888888888888888
+fb29d05d,2025,Série A,CB,Série A - Brasil,15.0,1.0,16,5.0,0.7619047619047619
+c0e27d1a,2025,Série A,CB,Série A - Brasil,14.0,2.0,16,1.0,0.9411764705882353
+d714fc5a,2025,Série A,CB,Série A - Brasil,14.0,0.0,14,1.0,0.9333333333333333
+6c0ef11c,2025,Série A,CB,Série A - Brasil,13.0,6.0,19,0.0,1.0
+a25c009d,2025,Série A,CB,Série A - Brasil,13.0,2.0,15,3.0,0.8333333333333334
+7cab69b5,2025,Série A,CB,Série A - Brasil,13.0,1.0,14,0.0,1.0
+bf97c188,2025,Série A,CB,Série A - Brasil,13.0,1.0,14,0.0,1.0
+fefa9b9a,2025,Série A,CB,Série A - Brasil,13.0,0.0,13,0.0,1.0
+3990d93a,2025,Série A,CB,Série A - Brasil,12.0,3.0,15,1.0,0.9375
+4fd28619,2025,Série A,CB,Série A - Brasil,12.0,1.0,13,4.0,0.7647058823529411
+d1c8df97,2025,Série A,CB,Série A - Brasil,12.0,1.0,13,4.0,0.7647058823529411
+8ee6a7c1,2025,Série A,CB,Série A - Brasil,11.0,4.0,15,5.0,0.75
+3626f7d9,2025,Série A,CB,Série A - Brasil,11.0,0.0,11,0.0,1.0
+949fe1e8,2025,Série A,CB,Série A - Brasil,10.0,1.0,11,0.0,1.0
+4edc0ef3,2025,Série A,CB,Série A - Brasil,10.0,1.0,11,2.0,0.8461538461538461
+b4fce835,2025,Série A,CB,Série A - Brasil,9.0,5.0,14,0.0,1.0
+30afd787,2025,Série A,CB,Série A - Brasil,8.0,4.0,12,0.0,1.0
+12748e35,2025,Série A,CB,Série A - Brasil,8.0,1.0,9,0.0,1.0
+31edef00,2025,Série A,CB,Série A - Brasil,8.0,0.0,8,1.0,0.8888888888888888
+f961d4c2,2025,Série A,CB,Série A - Brasil,7.0,3.0,10,1.0,0.9090909090909091
+ea42c03f,2025,Série A,CB,Série A - Brasil,6.0,1.0,7,1.0,0.875
+86c79c42,2025,Série A,CB,Série A - Brasil,6.0,0.0,6,0.0,1.0
+8b7b78ac,2025,Série A,CB,Série A - Brasil,5.0,2.0,7,0.0,1.0
+dbe5a587,2025,Série A,CB,Série A - Brasil,5.0,1.0,6,1.0,0.8571428571428571
+3690d4f3,2025,Série A,CB,Série A - Brasil,4.0,1.0,5,1.0,0.8333333333333334
+11cc9108,2025,Série A,CB,Série A - Brasil,4.0,0.0,4,0.0,1.0
+0eaa0f26,2025,Série A,CB,Série A - Brasil,3.0,2.0,5,0.0,1.0
+fddae996,2025,Série A,CB,Série A - Brasil,3.0,1.0,4,2.0,0.6666666666666666
+f1a1c9e2,2025,Série A,CB,Série A - Brasil,3.0,0.0,3,0.0,1.0
+ba1a2c4c,2025,Série A,CB,Série A - Brasil,3.0,0.0,3,0.0,1.0
